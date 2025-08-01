@@ -26,8 +26,8 @@ Tools → Add-ons → Get Add-ons → Code:
   - English
 
     ```bash
-    unzip -qq ~/Downloads/Forvo_pronunciation/export/opus/en.zip -d ~/Downloads
+    unzip -qq ~/Downloads/Forvo_pronunciations/export/opus/en.zip -d ~/Downloads
     mv ~/Downloads/en ~/Downloads/forvo_files
     cp -rf ~/Downloads/forvo_files ~/.local/share/Anki2/addons21/1045800357/user_files
-    rm -rf ~/Downloads/{Forvo_pronunciation,forvo_files}
+    rm -rf ~/Downloads/{Forvo_pronunciations,forvo_files}
     ```
