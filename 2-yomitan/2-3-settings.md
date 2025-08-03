@@ -97,14 +97,14 @@
 
     Deck/Model: Japanese Mining
 
-    | Field       | Value                      |
-    | ----------- | -------------------------- |
-    | Expression  | `{expression}`             |
-    | Sentence    | `{sentence}`               |
-    | Reading     | `{reading}`                |
-    | PitchAccent | `{pitch-accent-positions}` |
-    | Glossary    | `{popup-selection-text}`   |
-    | Audio       | `{audio}`                  |
+    | Field       | Value                    |
+    | ----------- | ------------------------ |
+    | Expression  | `{expression}`           |
+    | Sentence    | `{sentence}`             |
+    | Reading     | `{reading}`              |
+    | PitchAccent | `{pitch-accents}`        |
+    | Glossary    | `{popup-selection-text}` |
+    | Audio       | `{audio}`                |
 
 ## English Profile
 
