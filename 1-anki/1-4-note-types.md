@@ -52,17 +52,28 @@ Tools → Manage Note Types (Ctrl + Shift + n)
     <div id="audio">{{Audio}}</div>
 
     <script>
-      if (
-        document.getElementById("reading").textContent ==
-        document.getElementById("expression").textContent
-      ) {
-        document.getElementById("reading").remove();
-      }
+      (() => {
+        const expressionDiv = document.getElementById("expression");
+        const readingDiv = document.getElementById("reading");
 
-      document.getElementById("pitch-accent").innerHTML = document
-        .getElementById("pitch-accent")
-        .innerHTML.replace(/<\/?ol>|<\/?li>/g, "")
-        .trim();
+        if (
+          expressionDiv.textContent.trim() === readingDiv.textContent.trim()
+        ) {
+          readingDiv.remove();
+        }
+
+        const pitchAccentDiv = document.getElementById("pitch-accent");
+        const pitchAccentsArray = Array.from(
+          pitchAccentDiv.querySelectorAll("li"),
+          (listItem) => listItem.innerHTML.trim(),
+        );
+
+        if (pitchAccentsArray.length < 1) return;
+
+        pitchAccentDiv.innerHTML = Array.from(new Set(pitchAccentsArray)).join(
+          " | ",
+        );
+      })();
     </script>
     ```
 
