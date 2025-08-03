@@ -8,9 +8,9 @@
     | Location | Dictionary                   |
     | :------: | ---------------------------- |
     |    1     | NHK (pitch)                  |
-    |    2     | 三省堂国語辞典第八番 (pitch) |
+    |    2     | 大辞泉 (pitch)               |
     |    3     | 大辞林第四版 (pitch)         |
-    |    4     | 大辞泉 (pitch)               |
+    |    4     | 三省堂国語辞典第八番 (pitch) |
     |    5     | 新明解第八版 (pitch)         |
     |    6     | Jitendex.org                 |
     |    7     | NEW斎藤和英大辞典            |
