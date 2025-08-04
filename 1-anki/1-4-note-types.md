@@ -112,10 +112,6 @@ Tools → Manage Note Types (Ctrl + Shift + n)
       display: none;
     }
 
-    hr {
-      border-color: #c8c093;
-    }
-
     img {
       width: auto;
       height: auto;
@@ -189,10 +185,6 @@ Tools → Manage Note Types (Ctrl + Shift + n)
 
     #audio {
       display: none;
-    }
-
-    hr {
-      border-color: #c8c093;
     }
 
     img {
