@@ -97,7 +97,6 @@ Tools → Manage Note Types (Ctrl + Shift + n)
     #expression,
     #reading {
       font-size: 40px;
-      font-weight: bold;
     }
 
     #sentence {
@@ -172,7 +171,6 @@ Tools → Manage Note Types (Ctrl + Shift + n)
 
     #expression {
       font-size: 40px;
-      font-weight: bold;
     }
 
     #sentence {
