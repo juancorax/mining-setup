@@ -34,4 +34,4 @@ Gear icon (next to deck) → Options
 
 - FSRS: ✅
 
-- Desired retention: `80` %
+- Desired retention: `85` %
