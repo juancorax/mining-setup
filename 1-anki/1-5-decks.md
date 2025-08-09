@@ -35,3 +35,5 @@ Gear icon (next to deck) → Options
 - FSRS: ✅
 
 - Desired retention: `85` %
+
+> Use **_Optimize Current Preset_** once per month
