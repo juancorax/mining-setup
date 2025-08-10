@@ -30,6 +30,12 @@ Gear icon (next to deck) → Options
 
 - Leech action: Suspend Card
 
+### Display Order
+
+- New/review order: Show before reviews
+
+- Review sort order: Descending retrievability
+
 ### FSRS
 
 - FSRS: ✅
