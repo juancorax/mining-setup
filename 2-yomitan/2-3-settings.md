@@ -31,12 +31,14 @@
 
 ### Popup Position & Size
 
-- Scale: 150%
+- Scale: 125%
   - Auto-scale
     - Zoom level: ✅
 
 - Size
-  - Width: `500`
+  - Width: `700`
+
+  - Height: `350`
 
 ### Anki
 
