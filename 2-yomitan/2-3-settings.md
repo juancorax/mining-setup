@@ -18,6 +18,8 @@
 - Theme
   - Shadow: Light
 
+- Font size: `20`
+
 - Configure custom CSS
   - Popup CSS:
 
