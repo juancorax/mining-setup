@@ -84,7 +84,8 @@ Tools → Manage Note Types (Ctrl + Shift + n)
       max-width: 600px;
       margin: 0 auto;
       font-family:
-        "Noto Serif CJK JP", "IPAexMincho", "Jigmo", "Jigmo2", "Jigmo3";
+        "DejaVuSansM Nerd Font Mono", "Noto Serif CJK JP", "IPAexMincho",
+        "Jigmo", "Jigmo2", "Jigmo3";
       font-size: 20px;
       color: #c5c9c5 !important;
       background-color: #181616 !important;

@@ -58,7 +58,7 @@
 - Font family:
 
   ```
-  "Noto Serif CJK JP", "IPAexMincho", "Jigmo", "Jigmo2", "Jigmo3"
+  "DejaVuSansM Nerd Font Mono", "Noto Serif CJK JP", "IPAexMincho", "Jigmo", "Jigmo2", "Jigmo3"
   ```
 
 ### Audio
