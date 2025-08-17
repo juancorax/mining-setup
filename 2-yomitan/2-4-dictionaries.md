@@ -22,7 +22,7 @@
     |    13    | 旺文社国語辞典 第十二版      |
     |    14    | 三省堂国語辞典　第八版       |
     |    15    | 新明解国語辞典　第八版       |
-    |    16    | 明鏡国語辞典　第二版         |
+    |    16    | 明鏡国語辞典 第三版          |
     |    17    | 実用日本語表現辞典           |
     |    18    | デジタル大辞泉               |
     |    19    | Pixiv Light                  |
@@ -37,7 +37,7 @@
     | 旺文社国語辞典 第十二版     | Force collapsed |
     | 三省堂国語辞典　第八版      | Force collapsed |
     | 新明解国語辞典　第八版      | Force collapsed |
-    | 明鏡国語辞典　第二版        | Force collapsed |
+    | 明鏡国語辞典 第三版         | Force collapsed |
     | 実用日本語表現辞典          | Force collapsed |
     | デジタル大辞泉              | Force collapsed |
     | Pixiv Light                 | Force collapsed |
