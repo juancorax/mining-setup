@@ -24,7 +24,7 @@
     |    15    | 新明解国語辞典　第八版       |
     |    16    | 明鏡国語辞典 第三版          |
     |    17    | 実用日本語表現辞典           |
-    |    18    | デジタル大辞泉               |
+    |    18    | 大辞泉 第二版                |
     |    19    | Pixiv Light                  |
     |    20    | JMnedict                     |
 
@@ -39,7 +39,7 @@
     | 新明解国語辞典　第八版      | Force collapsed |
     | 明鏡国語辞典 第三版         | Force collapsed |
     | 実用日本語表現辞典          | Force collapsed |
-    | デジタル大辞泉              | Force collapsed |
+    | 大辞泉 第二版               | Force collapsed |
     | Pixiv Light                 | Force collapsed |
     | JMnedict                    | Force collapsed |
 
