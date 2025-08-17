@@ -18,28 +18,30 @@
     |    9     | Babylon Japanese-English     |
     |    10    | Onomatoproject               |
     |    11    | 日本語文法辞典(全集)         |
-    |    12    | 旺文社国語辞典 第十一版      |
-    |    13    | 三省堂国語辞典　第八版       |
-    |    14    | 新明解国語辞典　第八版       |
-    |    15    | 明鏡国語辞典　第二版         |
-    |    16    | 実用日本語表現辞典           |
-    |    17    | デジタル大辞泉               |
-    |    18    | Pixiv Light                  |
-    |    19    | JMnedict                     |
+    |    12    | 小学館例解学習国語 第十二版  |
+    |    13    | 旺文社国語辞典 第十一版      |
+    |    14    | 三省堂国語辞典　第八版       |
+    |    15    | 新明解国語辞典　第八版       |
+    |    16    | 明鏡国語辞典　第二版         |
+    |    17    | 実用日本語表現辞典           |
+    |    18    | デジタル大辞泉               |
+    |    19    | Pixiv Light                  |
+    |    20    | JMnedict                     |
 
 - Appearance
   - Configure collapsible dictionaries…
 
-    | Dictionary              | Collapsible     |
-    | ----------------------- | --------------- |
-    | 旺文社国語辞典 第十一版 | Force collapsed |
-    | 三省堂国語辞典　第八版  | Force collapsed |
-    | 新明解国語辞典　第八版  | Force collapsed |
-    | 明鏡国語辞典　第二版    | Force collapsed |
-    | 実用日本語表現辞典      | Force collapsed |
-    | デジタル大辞泉          | Force collapsed |
-    | Pixiv Light             | Force collapsed |
-    | JMnedict                | Force collapsed |
+    | Dictionary                  | Collapsible     |
+    | --------------------------- | --------------- |
+    | 小学館例解学習国語 第十二版 | Force collapsed |
+    | 旺文社国語辞典 第十一版     | Force collapsed |
+    | 三省堂国語辞典　第八版      | Force collapsed |
+    | 新明解国語辞典　第八版      | Force collapsed |
+    | 明鏡国語辞典　第二版        | Force collapsed |
+    | 実用日本語表現辞典          | Force collapsed |
+    | デジタル大辞泉              | Force collapsed |
+    | Pixiv Light                 | Force collapsed |
+    | JMnedict                    | Force collapsed |
 
 ## English Profile
 
