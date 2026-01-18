@@ -5,28 +5,30 @@
 - Dictionaries
   - Configure installed and enabled dictionaries…
 
-    | Location | Dictionary                   |
-    | :------: | ---------------------------- |
-    |    1     | NHK (pitch)                  |
-    |    2     | 大辞泉 (pitch)               |
-    |    3     | 新明解第八版 (pitch)         |
-    |    4     | 三省堂国語辞典第八番 (pitch) |
-    |    5     | 大辞林第四版 (pitch)         |
-    |    6     | Jitendex.org                 |
-    |    7     | NEW斎藤和英大辞典            |
-    |    8     | 新和英                       |
-    |    9     | Babylon Japanese-English     |
-    |    10    | Onomatoproject               |
-    |    11    | 日本語文法辞典(全集)         |
-    |    12    | 小学館例解学習国語 第十二版  |
-    |    13    | 旺文社国語辞典 第十二版      |
-    |    14    | 三省堂国語辞典　第八版       |
-    |    15    | 新明解国語辞典　第八版       |
-    |    16    | 明鏡国語辞典 第三版          |
-    |    17    | 実用日本語表現辞典           |
-    |    18    | 大辞泉 第二版                |
-    |    19    | Pixiv Light                  |
-    |    20    | JMnedict                     |
+    | Location | Dictionary                                         |
+    | :------: | -------------------------------------------------- |
+    |    1     | NHK (pitch)                                        |
+    |    2     | 大辞泉 (pitch)                                     |
+    |    3     | 新明解第八版 (pitch)                               |
+    |    4     | 三省堂国語辞典第八番 (pitch)                       |
+    |    5     | 大辞林第四版 (pitch)                               |
+    |    6     | Jitendex.org                                       |
+    |    7     | NEW斎藤和英大辞典                                  |
+    |    8     | 新和英                                             |
+    |    9     | Babylon Japanese-English                           |
+    |    10    | Onomatoproject                                     |
+    |    11    | Living Japanese Slang Dictionary (Scripting Japan) |
+    |    12    | 日本語文法辞典(全集)                               |
+    |    13    | Bunpro Dictionary                                  |
+    |    14    | 小学館例解学習国語 第十二版                        |
+    |    15    | 旺文社国語辞典 第十二版                            |
+    |    16    | 三省堂国語辞典　第八版                             |
+    |    17    | 新明解国語辞典　第八版                             |
+    |    18    | 明鏡国語辞典 第三版                                |
+    |    19    | 実用日本語表現辞典                                 |
+    |    20    | 大辞泉 第二版                                      |
+    |    21    | Pixiv Light                                        |
+    |    22    | JMnedict                                           |
 
 - Appearance
   - Configure collapsible dictionaries…
