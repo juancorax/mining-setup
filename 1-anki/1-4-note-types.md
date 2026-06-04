@@ -16,12 +16,13 @@ Tools → Manage Note Types (Ctrl + Shift + n)
   | Position | Field         |
   | :------: | ------------- |
   |    1     | `Expression`  |
-  |    2     | `Sentence`    |
+  |    2     | `Hint`        |
   |    3     | `Reading`     |
   |    4     | `PitchAccent` |
   |    5     | `Glossary`    |
   |    6     | `Picture`     |
-  |    7     | `Audio`       |
+  |    7     | `Sentence`    |
+  |    8     | `Audio`       |
 
 ### Cards
 
@@ -31,7 +32,7 @@ Tools → Manage Note Types (Ctrl + Shift + n)
     ```html
     <span lang="ja">
       <div id="expression">{{Expression}}</div>
-      <div id="sentence">{{Sentence}}</div>
+      <div>{{Hint}}</div>
     </span>
     ```
 
@@ -44,37 +45,12 @@ Tools → Manage Note Types (Ctrl + Shift + n)
 
     <span lang="ja">
       <div id="reading">{{Reading}}</div>
-      <div id="pitch-accent">{{PitchAccent}}</div>
+      <div>{{PitchAccent}}</div>
       <div id="glossary">{{Glossary}}</div>
+      <div>{{Picture}}</div>
+      <div>{{Sentence}}</div>
+      <div id="audio">{{Audio}}</div>
     </span>
-
-    <div>{{Picture}}</div>
-    <div id="audio">{{Audio}}</div>
-
-    <script>
-      (() => {
-        const expressionDiv = document.getElementById("expression");
-        const readingDiv = document.getElementById("reading");
-
-        if (
-          expressionDiv.textContent.trim() === readingDiv.textContent.trim()
-        ) {
-          readingDiv.remove();
-        }
-
-        const pitchAccentDiv = document.getElementById("pitch-accent");
-        const pitchAccentsArray = Array.from(
-          pitchAccentDiv.querySelectorAll("li"),
-          (listItem) => listItem.innerHTML.trim(),
-        );
-
-        if (pitchAccentsArray.length < 1) return;
-
-        pitchAccentDiv.innerHTML = Array.from(new Set(pitchAccentsArray)).join(
-          " | ",
-        );
-      })();
-    </script>
     ```
 
   - Styling
@@ -86,26 +62,22 @@ Tools → Manage Note Types (Ctrl + Shift + n)
       font-family:
         "DejaVuSansM Nerd Font Mono", "Noto Serif CJK JP", "IPAexMincho",
         "Jigmo", "Jigmo2", "Jigmo3";
-      font-size: 20px;
+      font-size: 25px;
       color: #c5c9c5 !important;
       background-color: #181616 !important;
     }
 
     .card div {
-      margin: 20px 0;
+      margin: 25px 0;
     }
 
     #expression,
     #reading {
-      font-size: 40px;
-    }
-
-    #sentence {
-      color: #a6a69c;
+      font-size: 50px;
     }
 
     #glossary li {
-      margin: 10px 0;
+      margin: 12.5px 0;
     }
 
     #audio {
