@@ -3,7 +3,7 @@
 ## Create
 
 - Create Deck
-  - New deck name: `Japanese Mining` or `English Mining`
+  - New deck name: `日本語`
 
 ## Options
 
@@ -12,7 +12,7 @@ Gear icon (next to deck) → Options
 ### Preset
 
 - Arrow icon (top right) → Add Preset
-  - Name: `Japanese Mining` or `English Mining`
+  - Name: `日本語`
 
 ### Daily Limits
 
