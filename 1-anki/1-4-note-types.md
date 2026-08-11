@@ -5,7 +5,7 @@ Tools → Manage Note Types (Ctrl + Shift + n)
 ## Add
 
 - Add → Add: Basic
-  - Name: `Japanese Mining` or `English Mining`
+  - Name: `日本語`
 
 ## Japanese Note Type
 
@@ -78,80 +78,6 @@ Tools → Manage Note Types (Ctrl + Shift + n)
 
     #glossary li {
       margin: 12.5px 0;
-    }
-
-    #audio {
-      display: none;
-    }
-
-    img {
-      width: auto;
-      height: auto;
-    }
-    ```
-
-## English Note Type
-
-### Fields
-
-- Select note type → Fields
-
-  | Position | Field        |
-  | :------: | ------------ |
-  |    1     | `Expression` |
-  |    2     | `Sentence`   |
-  |    3     | `Glossary`   |
-  |    4     | `Picture`    |
-  |    5     | `Audio`      |
-
-### Cards
-
-- Select note type → Cards
-  - Front Template
-
-    ```html
-    <div id="expression">{{Expression}}</div>
-    <div id="sentence">{{Sentence}}</div>
-    ```
-
-  - Back Template
-
-    ```html
-    {{FrontSide}}
-
-    <hr />
-
-    <div id="glossary">{{Glossary}}</div>
-    <div>{{Picture}}</div>
-    <div id="audio">{{Audio}}</div>
-    ```
-
-  - Styling
-
-    ```css
-    .card {
-      max-width: 600px;
-      margin: 0 auto;
-      font-family: "DejaVuSansM Nerd Font Mono";
-      font-size: 20px;
-      color: #c5c9c5 !important;
-      background-color: #181616 !important;
-    }
-
-    .card div {
-      margin: 20px 0;
-    }
-
-    #expression {
-      font-size: 40px;
-    }
-
-    #sentence {
-      color: #a6a69c;
-    }
-
-    #glossary li {
-      margin: 10px 0;
     }
 
     #audio {
