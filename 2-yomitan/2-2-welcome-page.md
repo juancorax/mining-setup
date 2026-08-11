@@ -7,5 +7,3 @@
 ## Basic Customization
 
 - Show this welcome guide on browser startup: ❌
-
-- Theme: Dark
